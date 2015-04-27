@@ -12,7 +12,7 @@
     email="info@shop-mobilizer.com">ShopMobilizer
   </author>
   <description></description>
-  <preference name="phonegap-version" value="3.7.0"/>
+  <preference name="phonegap-version" value="3.6.3"/>
   <preference name="fullscreen" value="true"/>
   <preference name="permissions" value="none"/>
   <feature    name="http://api.phonegap.com/1.0/file"/>
