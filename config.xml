@@ -11,7 +11,7 @@
     href="http://shop-mobilizer.com"
     email="info@shop-mobilizer.com">ShopMobilizer
   </author>
-  <description></description>
+  <description>com.test for android</description>
   <preference name="phonegap-version" value="3.6.3"/>
   <preference name="fullscreen" value="true"/>
   <preference name="permissions" value="none"/>
