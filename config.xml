@@ -2,16 +2,16 @@
 <widget
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
-  id          = "com.test"
-  version     = "15.05.26"
-  versionCode = "150526"
+  id          = "com.storemobilizer.test.com"
+  version     = "15.05.29"
+  versionCode = "150529"
 >
-  <name>test.com</name>
+  <name>test</name>
   <author
-    href="http://shop-mobilizer.com"
-    email="info@shop-mobilizer.com">ShopMobilizer
+    href="http://storemobilizer.com"
+    email="info@storemobilizer.com">StoreMobilizer
   </author>
-  <description>com.test for android</description>
+  <description>com.storemobilizer.test.com for android</description>
   <preference name="phonegap-version" value="3.6.3"/>
   <preference name="fullscreen" value="true"/>
   <preference name="permissions" value="none"/>
