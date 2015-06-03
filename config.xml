@@ -3,15 +3,15 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.storemobilizer.test.com"
-  version     = "15.06.01"
-  versionCode = "150601"
+  version     = "15.06.03"
+  versionCode = "150603"
 >
   <name>test</name>
   <author
     href="http://storemobilizer.com"
     email="info@storemobilizer.com">StoreMobilizer
   </author>
-  <description>com.storemobilizer.test.com for android</description>
+  <description>test.com for android</description>
   <preference name="phonegap-version" value="3.6.3"/>
   <preference name="fullscreen" value="true"/>
   <preference name="permissions" value="none"/>
