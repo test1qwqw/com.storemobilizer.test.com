@@ -3,8 +3,8 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.storemobilizer.test.com"
-  version     = "15.06.03"
-  versionCode = "150603"
+  version     = "15.07.20"
+  versionCode = "150720"
 >
   <name>test</name>
   <author
@@ -12,7 +12,7 @@
     email="info@storemobilizer.com">StoreMobilizer
   </author>
   <description>test.com for android</description>
-  <preference name="phonegap-version" value="3.6.3"/>
+  <preference name="phonegap-version" value="cli-5.1.1"/>
   <preference name="fullscreen" value="true"/>
   <preference name="permissions" value="none"/>
   <feature    name="http://api.phonegap.com/1.0/file"/>
