@@ -24,6 +24,6 @@
   <icon         src="icon.png" gap:platform="android" gap:qualifier="hdpi"/>
   <gap:splash   src="logo.png" gap:platform="android"/>
   <gap:platform name="android"/>
-  <gap:plugin   name="phonegap-plugin-push"             source="npm" version="1.2.3"/>
+  <!--gap:plugin   name="phonegap-plugin-push"             source="npm" version="1.2.3"/-->
   <!--gap:plugin   name="cordova-plugin-x-socialsharing"   source="npm" spec="5.0.7"/-->
 </widget>
