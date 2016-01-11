@@ -3,13 +3,13 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.storemobilizer.test.com"
-  version     = "15.12.09"
-  versionCode = "151209"
+  version     = "16.01.11"
+  versionCode = "160111"
 >
   <name>test</name>
   <author
     href="http://storemobilizer.com"
-    email="info@storemobilizer.com">StoreMobilizer
+    email="info@storemobilizer.com">StoreMobilizer.com
   </author>
   <description>test.com for android</description>
   <preference name="phonegap-version" value="3.6.3"/>
@@ -25,5 +25,5 @@
   <gap:splash   src="logo.png" gap:platform="android"/>
   <gap:platform name="android"/>
   <gap:plugin   name="phonegap-plugin-push"             source="npm" version="1.2.3"/>
-  <gap:plugin   name="cordova-plugin-x-socialsharing"   source="npm" spec="5.0.7"/>
+  <!--gap:plugin   name="cordova-plugin-x-socialsharing"   source="npm" spec="5.0.7"/-->
 </widget>
