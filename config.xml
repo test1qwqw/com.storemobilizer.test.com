@@ -3,8 +3,8 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.storemobilizer.test.com"
-  version     = "16.03.17"
-  versionCode = "160317"
+  version     = "16.03.21"
+  versionCode = "160321"
 >
   <name>test</name>
   <author
